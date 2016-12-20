@@ -16,5 +16,8 @@ linux文本输出时的颜色函数。
 5 data_backup：
 数据冷备脚本。
 
+6 pingOffline.sh
+检测主机存活脚本
+
 
 
